@@ -1,0 +1,1 @@
+# 2d_sznajd_model_with_nonconformists
