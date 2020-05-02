@@ -1,6 +1,6 @@
 # 2d_sznajd_model_with_nonconformists
 
-simple 2D implamantation of the sznajd model  with stauffer's dynamic and non conformism (thermal noise).
+simple 2D implementation of the sznajd model  with stauffer's dynamic and non conformism (thermal noise).
 
 sources:
 
